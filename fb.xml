@@ -9,297 +9,421 @@
 
 <channel>
 	<title>Gazeta Esportiva</title>
-	<atom:link href="http://www.gazetaesportiva.com/feed/" rel="self" type="application/rss+xml" />
-	<link>http://www.gazetaesportiva.com</link>
-	<description></description>
-	<lastBuildDate>Fri, 05 Aug 2016 15:51:55 +0000</lastBuildDate>
+	<atom:link href="http://localhost/feed" rel="self" type="application/rss+xml" />
+	<link>https://walterdarcie.github.io/ia-tests</link>
+	<description>Só mais um site WordPress</description>
+	<lastBuildDate>Thu, 04 Aug 2016 20:57:53 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
 
 	<item>
-		<title>Astros do basquete dos EUA vivem expectativa antes de estreia nos Jogos</title>
-		<link>http://www.gazetaesportiva.com/olimpiadas-destaque/astros-do-basquete-dos-eua-vivem-expectativa-antes-de-estreia-nos-jogos/</link>
-		<comments>http://www.gazetaesportiva.com/olimpiadas-destaque/astros-do-basquete-dos-eua-vivem-expectativa-antes-de-estreia-nos-jogos/#respond</comments>
-		<pubDate>Fri, 05 Aug 2016 15:31:15 +0000</pubDate>
-		<dc:creator><![CDATA[Marcelo Baseggio Moschini Teixeira]]></dc:creator>
-				<category><![CDATA[Basquete]]></category>
-		<category><![CDATA[Mais Esportes]]></category>
-		<category><![CDATA[Olimpíadas 2016]]></category>
-		<category><![CDATA[Olimpíadas Destaque]]></category>
-		<category><![CDATA[basquete]]></category>
-		<category><![CDATA[eua]]></category>
-		<category><![CDATA[rio 2016]]></category>
+		<title>Com recorde de público no Castelão, Ceará e Vasco empatam por 0 a 0</title>
+		<link>https://walterdarcie.github.io/ia-tests/amistosos/com-recorde-de-publico-no-castelao-ceara-e-vasco-empatam-por-0-a-0/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/amistosos/com-recorde-de-publico-no-castelao-ceara-e-vasco-empatam-por-0-a-0/#respond</comments>
+		<pubDate>Thu, 04 Aug 2016 20:57:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ABC-RN]]></category>
+		<category><![CDATA[Alemanha]]></category>
+		<category><![CDATA[América-MG]]></category>
+		<category><![CDATA[América-RN]]></category>
+		<category><![CDATA[amistosos]]></category>
 
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346458</guid>
-		<description><![CDATA[<p><img width="4000" height="2662" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Basquete dos EUA chegam ao Rio como grandes favoritos ao ouro (Foto: ANDREJ ISAKOVIC/AFP)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2.jpg 4000w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2-360x240.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2-768x511.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2-1024x681.jpg 1024w" sizes="(max-width: 4000px) 100vw, 4000px" />Muito se engana quem pensa que a seleção norte-americana de basquete trata os Jogos Olímpicos do Rio de Janeiro de maneira descontraída. Apesar de trazer suas famílias para se hospedar junto a eles em um transatlântico atracado no porto da capital fluminense, os jogadores do Dream Team categorizam o evento como um momento significativo e [&#8230;]</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/olimpiadas-destaque/astros-do-basquete-dos-eua-vivem-expectativa-antes-de-estreia-nos-jogos/">Astros do basquete dos EUA vivem expectativa antes de estreia nos Jogos</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2337196</guid>
+		<description><![CDATA[<p><img width="850" height="567" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/08/vasco_MAT.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="vasco_MAT" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/08/vasco_MAT.jpg 850w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/08/vasco_MAT-300x200.jpg 300w" sizes="(max-width: 850px) 100vw, 850px" />Diante de 55.445 pagantes, o maior público da competição, Ceará e Vasco empataram sem gols em partida disputada na noite desta terça-feira, no Castelão, em Fortaleza, no encerramento do primeiro turno do Campeonato Brasileiro da série B. O resultado manteve a equipe de São Januário na liderança com 39 pontos ganhos, enquanto o Ceará segue [&#8230;]</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/amistosos/com-recorde-de-publico-no-castelao-ceara-e-vasco-empatam-por-0-a-0/">Com recorde de público no Castelão, Ceará e Vasco empatam por 0 a 0</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<img width="4000" height="2662" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Basquete dos EUA chegam ao Rio como grandes favoritos ao ouro (Foto: ANDREJ ISAKOVIC/AFP)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2.jpg 4000w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2-360x240.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2-768x511.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2-1024x681.jpg 1024w" sizes="(max-width: 4000px) 100vw, 4000px" /><div id="attachment_2346461" style="width: 4010px" class="wp-caption aligncenter"><img class="size-full wp-image-2346461" src="https://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2.jpg" alt="Basquete dos EUA chegam ao Rio como grandes favoritos ao ouro (Foto: ANDREJ ISAKOVIC/AFP)" width="4000" height="2662" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2.jpg 4000w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2-360x240.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2-768x511.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/000_DU3B2-1024x681.jpg 1024w" sizes="(max-width: 4000px) 100vw, 4000px" /><p class="wp-caption-text">Basquete dos EUA chegam ao Rio como grandes favoritos ao ouro (Foto: ANDREJ ISAKOVIC/AFP)</p></div>
-<p>Muito se engana quem pensa que a seleção norte-americana de basquete trata os Jogos Olímpicos do Rio de Janeiro de maneira descontraída. Apesar de trazer suas famílias para se hospedar junto a eles em um transatlântico atracado no porto da capital fluminense, os jogadores do Dream Team categorizam o evento como um momento significativo e acreditam que será fundamental pensar nos detalhes do jogo para saírem com mais uma medalha de ouro no peito.</p>
-<p>“Se queremos ganhar, a química é um ponto importante, pensar nos pontos, rebotes, pensar em fazer bem como time”, comentou Kevin Durant, que ainda ressaltou o quanto significa para ele representar seu país nas Olimpíadas. “É um momento importante, representar o país, sendo parte disso, é uma experiência que não consegue se descrever. Mal posso ver a reação de todos”, comentou.</p>
-<p>Quem também se posicionou sobre as expectativas que rodeiam o grupo antes da estreia nos Jogos Olímpicos foi Kyrie Irving. Atual campeão da NBA ao lado de LeBron James com o Cleveland Cavaliers, o atleta rechaçou qualquer superioridade dos EUA e ainda revelou sua pouquíssima intimidade com o futebol brasileiro.</p>
-<p>“É importante participar, ver o time crescer. O basquete norte-americano transcende os Jogos, estou ansioso por isso”, afirmou Irving, embora tenha assegurado que o elenco dos EUA não seja diferente de nenhum outro.</p>
-<p>Treinando nas dependências do basquete do Flamengo, na Gávea, Kyrie Irving foi honesto quando questionado se conhecia o clube e o futebol brasileiro. “Eu gostaria de conhecer, mas não conheço nada sobre o futebol brasileiro. Sei que estamos treinando na arena (do Flamengo). É um país espetacular, minha segunda vez aqui. Estou esperando coisas novas, quero voltar com coisas novas. As praias são lindas, é realmente uma boa experiência. Já dei um passeio pela praia, é sempre uma boa experiência”.</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/olimpiadas-destaque/astros-do-basquete-dos-eua-vivem-expectativa-antes-de-estreia-nos-jogos/">Astros do basquete dos EUA vivem expectativa antes de estreia nos Jogos</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+				<content:encoded><![CDATA[<img width="850" height="567" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/08/vasco_MAT.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="vasco_MAT" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/08/vasco_MAT.jpg 850w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/08/vasco_MAT-300x200.jpg 300w" sizes="(max-width: 850px) 100vw, 850px" /><div id="attachment_2345529" style="width: 860px" class="wp-caption aligncenter"><img class="size-full wp-image-2345529" src="https://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/02/vasco_MAT.jpg" alt="(Foto: Carlos Gregório Jr/CRVG) " width="850" height="567" /><p class="wp-caption-text">Arena Castelão recebeu 55. 445 pessoas, recorde de público da Série B (Foto: Carlos Gregório Jr/CRVG)</p></div>
+<p style="text-align: justify;">Diante de 55.445 pagantes, o maior público da competição, Ceará e Vasco empataram sem gols em partida disputada na noite desta terça-feira, no Castelão, em Fortaleza, no encerramento do primeiro turno do Campeonato Brasileiro da série B. O resultado manteve a equipe de São Januário na liderança com 39 pontos ganhos, enquanto o Ceará segue na segunda posição com 35 pontos ganhos.</p>
+<p style="text-align: justify;">O resultado refletiu o comportamento das duas equipes que não conseguiram ser brilhantes em momento nenhum do jogo. O Ceará foi mais agressivo, mas não teve competência para criar situações reais de gol. Dirigido por Zinho,- Jorginho cumpriu suspensão &#8211; o Vasco foi uma sombra da equipe que lidera a competição desde o início. O Vasco não mostrou inspiração ofensiva e ainda perdeu dois jogadores por contusão, o que atrapalhou ainda mais o rendimento da equipe.</p>
+<p style="text-align: justify;">Na próxima rodada que só acontecerá na segunda quinzena de agosto, o Ceará vai visitar o Paysandu, em Belém. O Vasco vai enfrentar o Sampaio Corrêa, em Cariacica.</p>
+<p style="text-align: justify;"><strong>O jogo &#8211;</strong> Diante de um público entusiasmado, o Ceará começou a partida no ataque, pressionando em busca do primeiro gol. Aos cinco minutos, Rafael Costa ganhou da zaga após cruzamento, mas a bola saiu sem levar perigo. O time da casa seguiu pressionando e, aos nove minutos, após levantamento de Felipe, Diogo Felipe subiu mais do que os zagueiros e cabeceou com perigo para o gol de Martín Silva.</p>
+<p style="text-align: justify;">O Vasco não conseguia se encontrar em campo, seus jogadores mostraram muito nervosismo e, por reclamar contra as decisões da arbitragem, Jorge Henrique e Andrezinho foram advertidos com cartão amarelo.<br />
+O time da casa continuava melhor e, aos 20 minutos, Rafael Costa perdeu uma grande chance de abrir o marcador. O atacante recebeu na frente do goleiro Martín Silva e bateu para fora.</p>
+<p style="text-align: justify;">O Ceará marcava a saída de bola e dificultava a movimentação dos jogadores cruz-maltinos. Sem receber a bola, os atacantes eram obrigados a recuar para participar do jogo. Só aos 24 minutos é que a equipe carioca conseguiu concluir para o gol. Jorge Henrique chutou, mas o chute saiu mascado e sem levar perigo para o goleiro Éverson.<br />
+Aos 32 minutos, o goleiro Martín Silva evitou o primeiro gol do Vasco ao desviar para escanteio, com a ponta dos dedos, a cobrança de falta executada por Eduardo.</p>
+<p style="text-align: justify;">O time carioca encontrava grande dificuldade para chegar na área cearense. Aos 35 minutos, Andrezinho bateu de longe e Éverson defendeu com facilidade. Nos minutos finais do primeiro tempo, o atacante Rafael Costa teve duas oportunidades para concluir, mas não conseguiu levar perigo ao gol defendido por Martín Silva.</p>
+<p style="text-align: justify;">Ceará e Vasco voltaram sem modificações para o segundo tempo. E os dois times voltaram mais cautelosos, congestionando o meio campo e pouco aparecendo na área do adversário. Só aos dez minutos é que o alvinegro cearense conseguiu criar a primeira oportunidade, mas Wescley chutou sem direção a bola que foi passada por Rafael Costa. O time carioca respondeu com um lançamento de Yago Pikachu para Ederson, mas o goleiro Éverson chegou antes e rebateu com os pés.</p>
+<p style="text-align: justify;">Aos 15 minutos, o lateral-esquerdo Thallyson investiu pela esquerda e lançou Wescley que bateu com efeito, mas Martín Silva fez grande defesa, espalmando para escanteio. A situação do Vasco ficou mais complicada quando Rafael Marques e Jorge Henrique se chocaram e bateram a cabeça, caindo cada um para o lado. O atacante chegou a passar mal, mas decidiu seguir no jogo, enquanto o zagueiro não teve condições para prosseguir e foi substituído por Jomar.</p>
+<p style="text-align: justify;">O Vasco encontrava grande dificuldade para armar jogadas ofensivas por causa da boa marcação da equipe cearense e quase não incomodava o goleiro Éverson. Aos 31 minutos, Ederson foi lançado na corrida, chegou a passar pelo goleiro Éverson, mas perdeu a chance de concluir por não conseguir dominar a bola que saiu pela linha do fundo.</p>
+<p style="text-align: justify;">Empurrado pela torcida, o Ceará ainda tentou pressionar em busca do gol da vitória, mas o Vasco soube bloquear as investidas e quase conseguiu chegar ao gol aos 41 minutos quando Eder Luis se livrou da marcação e tentou lançar Nenê que entrava livre pelo outro lado, mas Eduardo conseguiu evitar que a bola chegasse ao atacante cruz-maltino.</p>
+<p><strong>FICHA TÉCNICA:</strong><br />
+<strong>CEARÁ-CE 0 X 0 VASCO DA GAMA-RJ</strong></p>
+<p><strong>Local:</strong> Arena Castelão, em Fortaleza (CE)<br />
+<strong>Data:</strong> 02 de agosto de 2016<br />
+<strong>Horário:</strong> 21h30 (de Brasília)<br />
+<strong>Árbitro:</strong> Rafael Traci (PR)<br />
+<strong>Assistentes:</strong> Luiz Souza Santos e Victor Hugo Imazu dos Santos (ambos do PR)<br />
+<strong>Público:</strong> 55. 445 pagantes<br />
+<strong>Cartões amarelos:</strong> William Henrique, Richardson e Eduardo (Ceará); Andrezinho, Jorge Henrique, Nenê, Yago Pikachu e Rodrigo (Vasco)</p>
+<p><strong>CEARÁ:</strong> Éverson; Eduardo, Charles(Lucas Gomes), Valdo e Thallyson; Diego Felipe, Richardson, Wescley e Felipe; William Henrique(Serginho) e Rafael Costa (Tiago Cametá)<strong>Técnico:</strong> Sérgio Soares</p>
+<p><strong>VASCO:</strong> Martin Silva; Madson, Rafael Marques(Jomar), Rodrigo e Julio Cesar(Henrique); Diguinho, Andrezinho, Yago Pikachu(Eder Luis) e Jorge Henrique; Nenê e Éderson<strong>Técnico:</strong> Jorginho</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/amistosos/com-recorde-de-publico-no-castelao-ceara-e-vasco-empatam-por-0-a-0/">Com recorde de público no Castelão, Ceará e Vasco empatam por 0 a 0</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/olimpiadas-destaque/astros-do-basquete-dos-eua-vivem-expectativa-antes-de-estreia-nos-jogos/feed/</wfw:commentRss>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/amistosos/com-recorde-de-publico-no-castelao-ceara-e-vasco-empatam-por-0-a-0/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Com o Barcelona, Suárez encara antiga equipe em momento especial</title>
-		<link>http://www.gazetaesportiva.com/barcelona/com-o-barcelona-suarez-encara-antiga-equipe-em-momento-especial/</link>
-		<comments>http://www.gazetaesportiva.com/barcelona/com-o-barcelona-suarez-encara-antiga-equipe-em-momento-especial/#respond</comments>
-		<pubDate>Fri, 05 Aug 2016 15:02:56 +0000</pubDate>
-		<dc:creator><![CDATA[Maria Victoria Poli Cipeda]]></dc:creator>
-				<category><![CDATA[Barcelona]]></category>
-		<category><![CDATA[Bastidores]]></category>
-		<category><![CDATA[Futebol]]></category>
-		<category><![CDATA[Futebol Internacional]]></category>
-		<category><![CDATA[Liverpool]]></category>
-		<category><![CDATA[Notícias]]></category>
-		<category><![CDATA[amistoso]]></category>
-		<category><![CDATA[barcelona]]></category>
-		<category><![CDATA[liverpool]]></category>
-		<category><![CDATA[Luis Suarez]]></category>
-		<category><![CDATA[suarez]]></category>
+		<title>Náutico perde muitos gols em Barueri e não sai do zero com o Oeste</title>
+		<link>https://walterdarcie.github.io/ia-tests/america-rn/nautico-perde-muitos-gols-em-barueri-e-nao-sai-do-zero-com-o-oeste/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/america-rn/nautico-perde-muitos-gols-em-barueri-e-nao-sai-do-zero-com-o-oeste/#respond</comments>
+		<pubDate>Thu, 04 Aug 2016 20:55:05 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[ABC-RN]]></category>
+		<category><![CDATA[Águia de Marabá]]></category>
+		<category><![CDATA[Ajax]]></category>
+		<category><![CDATA[Alemanha]]></category>
+		<category><![CDATA[América-MG]]></category>
+		<category><![CDATA[América-RN]]></category>
 
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346453</guid>
-		<description><![CDATA[<p><img width="640" height="426" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/suárez-luis.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="O uruguai Luis Suárez enfrentará o Liverpool, sua antiga equipe, em amistoso neste sábado (Foto: Toshifumi Kitamura/AFP)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/suárez-luis.jpg 640w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/suárez-luis-360x240.jpg 360w" sizes="(max-width: 640px) 100vw, 640px" />Quarto colocado na lista dos melhores jogadores da Europa na temporada 2015-16, Luis Suárez entrará em campo para uma partida especial neste sábado. Em mais um amistoso de pré-temporada da Copa Internacional dos Campeões, o Barcelona encara o Liverpool, antiga equipe do uruguaio, com a qual ele atuou – e brilhou – por quatro temporadas [&#8230;]</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/barcelona/com-o-barcelona-suarez-encara-antiga-equipe-em-momento-especial/">Com o Barcelona, Suárez encara antiga equipe em momento especial</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2337194</guid>
+		<description><![CDATA[<p>O Náutico insistiu, martelou, pressionou, mas não teve a capacidade de colocar ao menos uma de suas tantas chances de gol para dentro. Mais uma vez o Oeste decepcionou com uma atuação discreta, muita falta de criatividade e, no fim, o 0 a 0 ficou de bom tamanho para a equipe de Itápolis, na Arena [&#8230;]</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/america-rn/nautico-perde-muitos-gols-em-barueri-e-nao-sai-do-zero-com-o-oeste/">Náutico perde muitos gols em Barueri e não sai do zero com o Oeste</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<img width="640" height="426" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/suárez-luis.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="O uruguai Luis Suárez enfrentará o Liverpool, sua antiga equipe, em amistoso neste sábado (Foto: Toshifumi Kitamura/AFP)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/suárez-luis.jpg 640w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/suárez-luis-360x240.jpg 360w" sizes="(max-width: 640px) 100vw, 640px" /><div id="attachment_2346456" style="width: 650px" class="wp-caption aligncenter"><img class="wp-image-2346456 size-full" src="https://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/suárez-luis.jpg" alt="O uruguai Luis Suárez enfrentará o Liverpool, sua antiga equipe, em amistoso neste sábado (Foto: Toshifumi Kitamura/AFP)" width="640" height="426" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/suárez-luis.jpg 640w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/suárez-luis-360x240.jpg 360w" sizes="(max-width: 640px) 100vw, 640px" /><p class="wp-caption-text">O uruguaio Luis Suárez enfrentará o Liverpool, sua antiga equipe, em amistoso neste sábado (Foto: Toshifumi Kitamura/AFP)</p></div>
-<p>Quarto colocado na <a href="http://www.gazetaesportiva.com/real-madrid/cristiano-ronaldo-griezmann-e-bale-vao-disputar-premio-de-melhor-da-europa/">lista dos melhores jogadores da Europa na temporada 2015-16</a>, Luis Suárez entrará em campo para uma partida especial neste sábado. Em mais um amistoso de pré-temporada da Copa Internacional dos Campeões, o<a href="http://www.gazetaesportiva.com/time/barcelona/"> Barcelona</a> encara o <a href="http://www.gazetaesportiva.com/time/liverpool/">Liverpool</a>, antiga equipe do uruguaio, com a qual ele atuou – e brilhou – por quatro temporadas antes de chegar à Catalunha.</p>
-<p>“Tenho alguns amigos lá e acredito que é um momento muito bom para voltar e jogar contra o Liverpool”, disse o atacante ao site oficial do clube inglês. “Menos mal que essa partida é um amistoso, porque se fosse um jogo da Liga dos Campeões ou de outro torneio importante, seria muito difícil jogar contra o Liverpool. Um amistoso é para ser disfrutado”, completou o jogador, que tem muito carinho pelo ex-time, onde é ídolo até hoje.</p>
-<p>O atleta exaltou a torcida, que sempre marca presença nos estádios. “Para os futebolistas, jogar perante 90 mil espectadores é um sonho. A torcida do Liverpool é uma das melhores do mundo e acredito que estão empolgados com a possibilidade de ver os melhores jogadores em campo”, contou.</p>
-<p>Durante a temporada 2013/14, sua última com a camisa dos<em> reds</em>, Suárez marcou 31 gols em 37 atuações. “Todo o mundo sabe que o Liverpool é muito importante na minha vida, na minha carreira e, também, para minha família. Meu segundo filho nasceu lá. É um momento muito bonito para mim”, finalizou o artilheiro.</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/barcelona/com-o-barcelona-suarez-encara-antiga-equipe-em-momento-especial/">Com o Barcelona, Suárez encara antiga equipe em momento especial</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+				<content:encoded><![CDATA[<p>O Náutico insistiu, martelou, pressionou, mas não teve a capacidade de colocar ao menos uma de suas tantas chances de gol para dentro. Mais uma vez o Oeste decepcionou com uma atuação discreta, muita falta de criatividade e, no fim, o 0 a 0 ficou de bom tamanho para a equipe de Itápolis, na Arena Barueri, na Grande São Paulo, pela 18ª rodada do Campeonato Brasileiro da Série B.
+<p>
+O resultado freia o embalo do Timbu, que vinha de duas vitórias seguidas, e coloca a equipe na 6ª colocação, com 28 pontos. Já o Oeste é apenas o 11ª na classificação, com 25 pontos. Na próxima rodada, os nordestinos recebem o Criciúma às 16 horas do dia 20, um sábado, na Arena Pernambuco. Um dia antes, às 20h30, o Oeste visita o Atlético Goianiense, no Serra Dourada, em Goiás.
+<p>
+Desde os primeiros minutos de jogo, ficou claro que o Náutico era mais time em campo. Com uma atitude ousada, mesmo atuando longe de seus domínios, o Timbu criou perigo logo aos 10 minutos, em chute de longe de Renan oliveira. Na sequência, Rony e Hugo exigiram esforço do goleiro Felipe Alves, que brilhou mesmo no último lance da primeira etapa, aos 45, quando viu Rony na sua frente.
+<p>
+Na segunda etapa, o Oeste, já mais defensivo e longe da proposta do Osasco Audax, que encantou no Campeonato Paulista quando comandado pelo mesmo técnico Fernando Diniz, chegou perto de marcar em um lance isolado, aos 19 minutos, na primeira intervenção mais difícil de Julio César, ex-goleiro do Corinthians e que contava com toda a família no estádio, já que morou por muitos anos na cidade que sediou o duelo desta terça-feira.
+<p>
+Aos poucos os jogadores foram cansando no gramado e o confronto tomou ares de ‘quem fizer, ganha’. Aos 28, Rony teve mais uma chance cara a cara e dessa vez sequer acertou no alvo. O golpe final poderia ter vindo, então, aos 43, na melhor oportunidade do Timbu no jogo. Em um contra-ataque arrasador, Felipe Alves parou Rony e Léo Santos em duas defesas seguidas e cravou seu nome como o carrasco da noite.
+<p>
+E o castigo quando veio na última jogada antes do apito final, quando o Oeste chegou com Francisco Alex, mas parou em Julio Cesar, que ainda contou com a sorte no rebote.
+<p>
+Com aquela impressão de que o jogo poderia continuar que ninguém assistiria um gol sequer, o árbitro encerrou a peleja. Rony, que não pode voltar para casa reclamando de oportunidades, tentou explicar o empate. “A gente pressionou. Acredito que tivemos mais finalizações que eles, mas infelizmente a bola não entrou. Vamos focar no próximo jogo e ver o que o professor vai passar para a semana”, resumiu, ao Premiere, o atacante do Náutico.
+<p><b>FICHA TÉCNICA</b><br />
+<b>OESTE 0 X 0 NÁUTICO</b>
+<p><b>Local: </b>Arena Barueri, em Barueri (SP)<br />
+<b>Data: </b> 02 de agosto de 2016, terça-feira. <br />
+<b>Horário: </b> 21h30 (horário de Brasília). <br />
+<b>Árbitro: </b> Adriano Milczvski (PR)<br />
+<b>Assistentes: </b>Andre Luiz Severo e Daniel Cotrim de Carvalho (PR)<br />
+<b>Cartões amarelos: OESTE: </b> Daniel Sertanejo, Matheus Vargas. <b>NÁUTICO: </b> Eurico
+<p><b>OESTE: </b> Felipe Alves; Felipe Rodrigues, Francis (Wesley), Bruno Silva e Velicka; Daniel Sertanejo, Marquinhos (Rodolfo) e Mazinho; Léo Artur, Marcus Vinícius (Francisco Alex) e Matheus Vargas<br />
+<b>Técnico: </b> Fernando Diniz.
+<p><b>NÁUTICO: </b> Júlio César; Joazi, Rafael Pereira, Eduardo e Gastón; Eurico (Cal Rodrigues), João Ananias, Renan Oliveira (Tiago Adan) e Hugo (Léo Santos); Roni e Jefferson Nem<br />
+<b>Técnico: </b>Alexandre Gallo.</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/america-rn/nautico-perde-muitos-gols-em-barueri-e-nao-sai-do-zero-com-o-oeste/">Náutico perde muitos gols em Barueri e não sai do zero com o Oeste</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/barcelona/com-o-barcelona-suarez-encara-antiga-equipe-em-momento-especial/feed/</wfw:commentRss>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/america-rn/nautico-perde-muitos-gols-em-barueri-e-nao-sai-do-zero-com-o-oeste/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Sul-coreano bate recorde e reina na estreia do tiro com arco nas Olimpíadas</title>
-		<link>http://www.gazetaesportiva.com/olimpiadas-destaque/sul-coreano-bate-recorde-e-reina-na-estreia-do-tiro-com-arco-nas-olimpiadas/</link>
-		<comments>http://www.gazetaesportiva.com/olimpiadas-destaque/sul-coreano-bate-recorde-e-reina-na-estreia-do-tiro-com-arco-nas-olimpiadas/#respond</comments>
-		<pubDate>Fri, 05 Aug 2016 14:54:16 +0000</pubDate>
-		<dc:creator><![CDATA[Marcelo Baseggio Moschini Teixeira]]></dc:creator>
-				<category><![CDATA[Mais Esportes]]></category>
-		<category><![CDATA[Olimpíadas 2016]]></category>
-		<category><![CDATA[Olimpíadas Destaque]]></category>
-		<category><![CDATA[Tiro com Arco]]></category>
-		<category><![CDATA[rio 2016]]></category>
+		<title>Enquetão</title>
+		<link>https://walterdarcie.github.io/ia-tests/sem-categoria/enquetao/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/sem-categoria/enquetao/#respond</comments>
+		<pubDate>Thu, 21 Jul 2016 14:29:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Sem categoria]]></category>
 
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346442</guid>
-		<description><![CDATA[<p><img width="1440" height="960" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Kim Woojin não deu chances aos seus adversários, quebrando o recorde mundial e olímpico (Foto: World Archery)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div.jpg 1440w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div-360x240.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div-768x512.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div-1024x683.jpg 1024w" sizes="(max-width: 1440px) 100vw, 1440px" />A Marquês de Sapucaí recebeu na manhã desta sexta-feira um evento bem diferente do que está acostumada a abrigar ao longo de sua comprida avenida. Local das provas do tiro com arco das Olimpíadas, o Sambódromo do Rio de Janeiro não intimidou o sul-coreano Kim Woojin, que venceu a classificatória quebrando o recorde olímpico e [&#8230;]</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/olimpiadas-destaque/sul-coreano-bate-recorde-e-reina-na-estreia-do-tiro-com-arco-nas-olimpiadas/">Sul-coreano bate recorde e reina na estreia do tiro com arco nas Olimpíadas</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2337143</guid>
+		<description><![CDATA[<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/sem-categoria/enquetao/">Enquetão</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<img width="1440" height="960" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Kim Woojin não deu chances aos seus adversários, quebrando o recorde mundial e olímpico (Foto: World Archery)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div.jpg 1440w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div-360x240.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div-768x512.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div-1024x683.jpg 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /><div id="attachment_2346455" style="width: 1450px" class="wp-caption aligncenter"><img class="size-full wp-image-2346455" src="https://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div.jpg" alt="Kim Woojin não deu chances aos seus adversários, quebrando o recorde mundial e olímpico (Foto: World Archery)" width="1440" height="960" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div.jpg 1440w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div-360x240.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div-768x512.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/kim-woojin_mat_div-1024x683.jpg 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /><p class="wp-caption-text">Kim Woojin não deu chances aos seus adversários, quebrando o recorde mundial e olímpico (Foto: World Archery)</p></div>
-<p>A Marquês de Sapucaí recebeu na manhã desta sexta-feira um evento bem diferente do que está acostumada a abrigar ao longo de sua comprida avenida. Local das provas do tiro com arco das Olimpíadas, o Sambódromo do Rio de Janeiro não intimidou o sul-coreano Kim Woojin, que venceu a classificatória quebrando o recorde olímpico e mundial com 700 pontos, dos 720 possíveis. O resultado garantiu ao atleta enfrentar já neste sábado, o pior arqueiro do dia, Gavin Ben Sutherland, do Zimbábue, que registrou apenas 566 pontos.</p>
-<p>Já o brasileiro Marcus Vinicius não conseguiu o desempenho esperado e ficou apenas na 34ª colocação, contabilizando 658 pontos nesse primeiro dia da modalidade nas Olimpíadas. Bernardo Oliveira terminou em 45º, enquanto Daniel Xavier saiu da Marquês de Sapucaí com a 53ª melhor marca.</p>
-<p>Com isso, os confrontos dos brasileiros no individual ficaram definidos. Marcus Vinícius encara o norte-americano Jake Kaminski, Bernardo Oliveira pega Alec Potts, da Austrália, e Daniel Rezende enfrenta o sul-coreano Lee Seungyun. Já por equipes o Brasil terminou na 11ª colocação e será o oponente da China, que ficou em sexto nesta estreia do tiro com arco nos Jogos.</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/olimpiadas-destaque/sul-coreano-bate-recorde-e-reina-na-estreia-do-tiro-com-arco-nas-olimpiadas/">Sul-coreano bate recorde e reina na estreia do tiro com arco nas Olimpíadas</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+				<content:encoded><![CDATA[
+			<style>
+				@import url(http://fonts.googleapis.com/css?family=Fjalla+One|Fjalla+One|);
+
+				.template_1{
+
+
+
+				}
+				.template_1 .poller_master_answers ul{
+					list-style: none;
+					list-style-type: none;
+					margin-left: 0px;
+				}
+				.template_1 .poller_master_answers ul li{
+					color: #333333;
+					font-size: 12px;
+					font-weight: normal;
+					line-height: 22px;
+					list-style: none;
+					list-style-type: none;
+				}
+
+				.template_1 .poll_countdown span{
+					font-family: "Fjalla One", sans-serif;
+				}
+
+
+				.template_1 .poller_master_poll_countdown .btn-info{
+					background-color: #5bc0de;
+					border-color: #46b8da;
+					color: #ffffff;
+
+				}
+
+				.template_1 .poller_master_poll_countdown .btn-info:hover{
+					background-color: #39b3d7;
+					border-color: #269abc;
+				}
+
+				.template_1 #poller_master_vote{
+					background-color: #20a8d8;
+					border: 1px solid #20a8d8;
+					color: #ffffff;
+					font-weight: normal;
+
+
+				}
+
+				.template_1 #poller_master_vote:hover, .template_1 #poller_master_vote:focus, .template_1 #poller_master_vote:active{
+					padding: 6px 12px;
+					background: #1985ac;
+					border: 1px solid #1985ac;
+				}
+
+				.template_1 #poller_master_results{
+					background: #5cb85c;
+					border: 1px solid #4cae4c;
+					color: #ffffff;
+					font-weight: normal;
+
+
+				}
+
+				.template_1 #poller_master_results:hover, .template_1 #poller_master_results:focus, .template_1 #poller_master_results:active{
+					padding: 6px 12px;
+					background: #47a447;
+					border: 1px solid #398439;
+				}
+
+
+				.template_1 .vote_countdown span{
+					font-family: "Fjalla One", sans-serif;
+				}
+
+				.template_1 .poller_master_vote_countdown .btn-info{
+					background-color: #5bc0de;
+					border-color: #46b8da;
+					color: #ffffff;
+
+				}
+
+				.template_1 .poller_master_vote_countdown .btn-info:hover{
+					background-color: #39b3d7;
+					border-color: #269abc;
+				}
+
+				.template_1 .poller_master_results{
+					background-color: rgba( 255, 255, 255, 0.9 );
+					border-color: #e1e6ef;
+					color: #374767;
+					font-weight: normal;
+					font-size: 13px;
+
+				}
+
+				.template_1 .poller_master_results *{
+					color: #374767;
+				}
+				.template_1 .poller_master_result_percentage p{
+					font-size: 13px;
+					padding-bottom: 0px;
+				}
+
+				.template_1 .loading{
+
+				}
+
+				.template_1 .poll_countdown .kk_number{
+					font-size: 22px;
+					line-height: 32px;
+				}
+
+				.template_1 .vote_countdown .kk_number{
+					font-size: 22px;
+					line-height: 32px;
+				}
+
+				.template_1 .poller_master_poll .progress{
+					height: 10px;
+				}
+
+			</style>
+		<div class="row">
+											<div class="col-md-12">
+												<div class="poller_master_poll template_1 " data-poll_id="1" data-in_easing="easeOutBounce" data-in_effect="slide" data-out_easing="easeOutBounce" data-out_effect="slide">
+													<div class="poller_master_message"></div>
+
+
+													<div class="poller_master_question_box">
+														<div class="poller_master_results"></div>
+														<div class="poller_master_question"></div>
+
+														<div class="poller_master_answers"><form class="poller_master_form" data-input_class="iradio_flat-blue" data-multiple="no" data-error_empty_text="Please select a vote or two">
+																				<ul class="list-unstyled skin-flat">
+																	<li>
+																		<input name="poll_1" id="poll_1_0" value="0" type="radio"/>
+																		<label for="poll_1_0">asdasd</label>
+																	</li>
+
+																	<li>
+																		<input name="poll_1" id="poll_1_1" value="1" type="radio"/>
+																		<label for="poll_1_1">assada</label>
+																	</li>
+																</ul></form>
+														</div>
+														<div class="row"><div id="before_captcha"><div class="col-md-6"><button type="button" class="btn btn-info pull-left" id="poller_master_go_to_captcha">Vote</button></div></div><div id="after_captcha" style="display:none"><p>Por favor, digite o texto ou resolva o desafio abaixo:</p><div><div id="brandcaptcha_container"></div>
+        <script src="//s3.amazonaws.com/brandcaptcha-st1/js/bcaptcha.js"></script>
+        <input type="hidden" id="brandcaptcha_pubkey" value="POLLER_MASTER_FCL_BRANDCAPTCHA_PUBLIC_KEY"></div><div class="col-md-6"><button type="button" class="btn btn-info pull-left" id="poller_master_vote">Confirmar Voto</button></div><div class="col-md-6"><a href="#" class="btn btn-success pull-right" id="poller_master_back_to_form">Voltar</a></div></div><div class="col-md-6"><button type="button" class=" btn btn-success pull-right" id="poller_master_results">Results</button></div><div class="clearfix"></div></div></div>	<!-- closed poller_master_question_box  --></div>	<!-- closed poller_master_poll  -->
+										</div>	<!-- closed col  -->
+										</div>	<!-- closed row  -->
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/sem-categoria/enquetao/">Enquetão</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/olimpiadas-destaque/sul-coreano-bate-recorde-e-reina-na-estreia-do-tiro-com-arco-nas-olimpiadas/feed/</wfw:commentRss>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/sem-categoria/enquetao/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Com Bernard, Shakhtar enfrenta time turco na Liga Europa</title>
-		<link>http://www.gazetaesportiva.com/campeonato-liga-europa/com-bernard-shakhtar-enfrenta-time-turco-na-liga-europa/</link>
-		<comments>http://www.gazetaesportiva.com/campeonato-liga-europa/com-bernard-shakhtar-enfrenta-time-turco-na-liga-europa/#respond</comments>
-		<pubDate>Fri, 05 Aug 2016 14:19:47 +0000</pubDate>
-		<dc:creator><![CDATA[Maria Victoria Poli Cipeda]]></dc:creator>
-				<category><![CDATA[Campeonato Liga Europa]]></category>
-		<category><![CDATA[Futebol]]></category>
-		<category><![CDATA[Futebol Internacional]]></category>
-		<category><![CDATA[Notícias]]></category>
-		<category><![CDATA[Liga Europa]]></category>
-		<category><![CDATA[sorteio]]></category>
-
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346444</guid>
-		<description><![CDATA[<p><img width="943" height="500" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Recheado de brasileiros, entre eles o atacante Bernard, o Shakhtar Donetsk encara time turco nos playoffs da Liga Europa (Foto: Sergei Supinsky/AFP)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard.png 943w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard-360x191.png 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard-768x407.png 768w" sizes="(max-width: 943px) 100vw, 943px" />Nesta sexta-feira foram sorteados os confrontos da fase de playoffs da Liga Europa. O ucraniano Shakhtar Donetsk, time de Bernard, ex-jogador do Atlético-MG e da Seleção Brasileira, que conta com mais sete brasileiros – Ismaily, Márcio Azevedo, Wellington Nem, Fred, Taison, Marlos e Dentinho – enfrentará o turco Istambul Basaksehir, que tem Márcio Mossoró e [&#8230;]</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/campeonato-liga-europa/com-bernard-shakhtar-enfrenta-time-turco-na-liga-europa/">Com Bernard, Shakhtar enfrenta time turco na Liga Europa</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<img width="943" height="500" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Recheado de brasileiros, entre eles o atacante Bernard, o Shakhtar Donetsk encara time turco nos playoffs da Liga Europa (Foto: Sergei Supinsky/AFP)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard.png 943w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard-360x191.png 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard-768x407.png 768w" sizes="(max-width: 943px) 100vw, 943px" /><div id="attachment_2346449" style="width: 953px" class="wp-caption aligncenter"><img class="wp-image-2346449 size-full" src="https://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard.png" alt="Recheado de brasileiros, entre eles o atacante Bernard, o Shakhtar Donetsk encara time turco nos playoffs da Liga Europa (Foto: Sergei Supinsky/AFP) " width="943" height="500" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard.png 943w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard-360x191.png 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/bernard-768x407.png 768w" sizes="(max-width: 943px) 100vw, 943px" /><p class="wp-caption-text">Recheado de brasileiros, entre eles o atacante Bernard, o Shakhtar Donetsk encara time turco nos playoffs da Liga Europa (Foto: Sergei Supinsky/AFP)</p></div>
-<p>Nesta sexta-feira foram sorteados os confrontos da fase de playoffs da Liga Europa. O ucraniano Shakhtar Donetsk, time de Bernard, ex-jogador do Atlético-MG e da Seleção Brasileira, que conta com mais sete brasileiros – Ismaily, Márcio Azevedo, Wellington Nem, Fred, Taison, Marlos e Dentinho – enfrentará o turco Istambul Basaksehir, que tem Márcio Mossoró e Doka Madureira no elenco.</p>
-<p>Agora sem <a href="http://www.gazetaesportiva.com/flamengo/flamengo-anuncia-contratacao-oficial-do-meia-diego/">Diego, que recentemente chegou ao Flamengo</a>, o Fenerbahce encara o Grasshoppers, da Suíça.</p>
-<p>As eliminatórias, que terão jogos de ida e volta, serão disputadas entre os dias 18 e 25 de agosto. As 22 equipes ganhadoras terão vaga garantida na fase de grupos, que será sorteada em Mônaco, na França, no dia 26 de agosto.</p>
-<p><strong>Confira abaixo todos os confrontos:</strong></p>
-<p>Astana (Cazaquistão) x BATE Borisov (Bielorrússia)</p>
-<p>AEK Larnaca (Chipre) x Slovan Liberec (República Tcheca)</p>
-<p>Arouca (Portugal) x Olympiacos (Grécia)</p>
-<p>Dinamo Tbilisi (Geórgia) x PAOK (Grécia)</p>
-<p>Midtjylland (Dinamarca) x Osmanlispor (Turquia)</p>
-<p>Austria de Viena (Áustria) x Rosenborg (Noruega)</p>
-<p>Trencín (Eslováquia) x Rapid de Viena (Áustria)</p>
-<p>Beitar Jerusalem (Israel) x Saint-Étienne (França)</p>
-<p>Lokomotiva Zagreb (Croácia) x Genk (Bélgica)</p>
-<p>Vojvodina (Sérvia) x AZ Alkmaar (Holanda)</p>
-<p>Maribor (Eslovênia) x Qabala (Azerbaijão)</p>
-<p>Gent (Bélgica) x Shkendija (Macedônia)</p>
-<p>Slavia de Praga (República Tcheca) x Anderlecht (Bélgica)</p>
-<p>Istambul Basaksehir (Turquia) x Shakhtar Donetsk (Ucrânia)</p>
-<p>Astra Giurgiu (Romênia) x West Ham United (Inglaterra)</p>
-<p>Sonderjyske (Dinamarca) x Sparta Praga (República Tcheca)</p>
-<p>Fenerbahce (Turquia) x Grasshoppers (Suíça)</p>
-<p>Sassuolo (Itália) x Estrella Roja (Sérvia)</p>
-<p>Brondby (Dinamarca) x Panathinaikos (Grécia)</p>
-<p>IFK Goteborg (Suécia) x Qarabag (Azerbaijão)</p>
-<p>Krasnodar (Rússia) x Partizani Tirana (Albânia)</p>
-<p>Maccabi Tel-Aviv (Israel) x Hajduk Split (Croácia)</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/campeonato-liga-europa/com-bernard-shakhtar-enfrenta-time-turco-na-liga-europa/">Com Bernard, Shakhtar enfrenta time turco na Liga Europa</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/campeonato-liga-europa/com-bernard-shakhtar-enfrenta-time-turco-na-liga-europa/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Mano Menezes reforça confiança após primeira vitória no Cruzeiro</title>
-		<link>http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/mano-menezes-reforca-confianca-apos-primeira-vitoria-no-cruzeiro/</link>
-		<comments>http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/mano-menezes-reforca-confianca-apos-primeira-vitoria-no-cruzeiro/#respond</comments>
-		<pubDate>Fri, 05 Aug 2016 14:10:45 +0000</pubDate>
-		<dc:creator><![CDATA[Marcelo Rodrigues Belpiede]]></dc:creator>
-				<category><![CDATA[Campeonato Brasileiro Série A]]></category>
-		<category><![CDATA[Cruzeiro]]></category>
-		<category><![CDATA[Futebol]]></category>
-		<category><![CDATA[Notícias]]></category>
-
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346441</guid>
-		<description><![CDATA[<p><img width="1000" height="561" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Foto: Pedro Vilela/Light Press/Cruzeiro" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816.jpg 1000w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816-360x202.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816-768x431.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />O desafio é complicado pois a zona de rebaixamento segue como realidade, mas Mano Menezes se mostrou extremamente confiante após comandar a primeira vitória no retorno ao Cruzeiro. O treinador apontou o resultado desta quinta-feira de 4 a 2 diante do Internacional como expressivo, apesar da má fase do adversário no Campeonato Brasileiro. &#8220;Gostei de [&#8230;]</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/mano-menezes-reforca-confianca-apos-primeira-vitoria-no-cruzeiro/">Mano Menezes reforça confiança após primeira vitória no Cruzeiro</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<img width="1000" height="561" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Foto: Pedro Vilela/Light Press/Cruzeiro" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816.jpg 1000w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816-360x202.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816-768x431.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><div id="attachment_2346448" style="width: 1010px" class="wp-caption alignnone"><img class="size-full wp-image-2346448" src="https://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816.jpg" alt="Foto: Pedro Vilela/Light Press/Cruzeiro" width="1000" height="561" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816.jpg 1000w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816-360x202.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/mano-menezes050816-768x431.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p class="wp-caption-text">Foto: Pedro Vilela/Light Press/Cruzeiro</p></div>
-<p>O desafio é complicado pois a zona de rebaixamento segue como realidade, mas Mano Menezes se mostrou extremamente confiante após comandar a primeira vitória no retorno ao Cruzeiro. O treinador apontou o resultado desta quinta-feira de 4 a 2 diante do Internacional como expressivo, apesar da má fase do adversário no Campeonato Brasileiro.</p>
-<p>&#8220;Gostei de quase tudo na equipe, acho que todos precisam ser exaltados&#8221;, explicou o comandante celeste.</p>
-<p>Para as próximas rodadas, Mano Menezes pretende fazer alguns ajustes técnicos junto ao elenco. O comandante cobra mais tranquilidade na construção das jogadas, sobretudo nos cruzamentos. Em contrapartida, ele gostou do poder de marcação da equipe.</p>
-<p>&#8220;O importante é que a equipe está encorpando com uma nova forma de jogar. Esse resultado nos traz uma perspectiva para melhorar a condição do Campeonato Brasileiro&#8221;, avisou Mano Menezes.</p>
-<p>Agora, o Cruzeiro se prepara para um desafio importante: enfrentar o Corinthians, segunda-feira à noite, no Pacaembu. Mano Menezes não teme a missão. &#8220;O que vou passar aos jogadores é que o Cruzeiro tem condições de chegar lá e brigar pelo resultado&#8221;, disse.</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/mano-menezes-reforca-confianca-apos-primeira-vitoria-no-cruzeiro/">Mano Menezes reforça confiança após primeira vitória no Cruzeiro</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/mano-menezes-reforca-confianca-apos-primeira-vitoria-no-cruzeiro/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Acompanhe as novidades dos clubes paulistas nesta sexta-feira</title>
-		<link>http://www.gazetaesportiva.com/videos/videos-destaque/acompanhe-as-novidades-dos-clubes-paulistas-nesta-sexta-feira-3/</link>
-		<comments>http://www.gazetaesportiva.com/videos/videos-destaque/acompanhe-as-novidades-dos-clubes-paulistas-nesta-sexta-feira-3/#respond</comments>
-		<pubDate>Fri, 05 Aug 2016 14:07:39 +0000</pubDate>
-		<dc:creator><![CDATA[Willians Oliveira]]></dc:creator>
-				<category><![CDATA[Campeonato Brasileiro Série A]]></category>
-		<category><![CDATA[Corinthians]]></category>
-		<category><![CDATA[Futebol]]></category>
-		<category><![CDATA[Notícias]]></category>
-		<category><![CDATA[Palmeiras]]></category>
-		<category><![CDATA[Santos]]></category>
-		<category><![CDATA[São Paulo]]></category>
-		<category><![CDATA[Vídeos]]></category>
-		<category><![CDATA[Vídeos destaque]]></category>
-
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346443</guid>
-		<description><![CDATA[<p><img width="1847" height="829" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="2" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2.jpg 1847w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2-360x162.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2-768x345.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2-1024x460.jpg 1024w" sizes="(max-width: 1847px) 100vw, 1847px" /></p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/videos/videos-destaque/acompanhe-as-novidades-dos-clubes-paulistas-nesta-sexta-feira-3/">Acompanhe as novidades dos clubes paulistas nesta sexta-feira</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<img width="1847" height="829" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="2" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2.jpg 1847w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2-360x162.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2-768x345.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/2-1024x460.jpg 1024w" sizes="(max-width: 1847px) 100vw, 1847px" /><p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/videos/videos-destaque/acompanhe-as-novidades-dos-clubes-paulistas-nesta-sexta-feira-3/">Acompanhe as novidades dos clubes paulistas nesta sexta-feira</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/videos/videos-destaque/acompanhe-as-novidades-dos-clubes-paulistas-nesta-sexta-feira-3/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Marcelo Oliveira destaca superação do Galo em virada no Morumbi</title>
-		<link>http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/marcelo-oliveira-destaca-superacao-do-galo-em-virada-no-morumbi/</link>
-		<comments>http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/marcelo-oliveira-destaca-superacao-do-galo-em-virada-no-morumbi/#respond</comments>
-		<pubDate>Fri, 05 Aug 2016 13:50:08 +0000</pubDate>
-		<dc:creator><![CDATA[Marcelo Rodrigues Belpiede]]></dc:creator>
-				<category><![CDATA[Atlético-MG]]></category>
-		<category><![CDATA[Campeonato Brasileiro Série A]]></category>
-		<category><![CDATA[Futebol]]></category>
-		<category><![CDATA[Notícias]]></category>
-
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346438</guid>
-		<description><![CDATA[<p><img width="1000" height="666" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Foto: Sergio Barzaghi/Gazeta Press" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza.jpg 1000w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza-360x240.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza-768x511.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" />O Atlético-MG manteve a sua fase ascendente no Campeonato Brasileiro com a vitória sobre o São Paulo. O resultado desta quinta-feira no Morumbi, aliás, foi marcado por um susto: o Galo sofreu um gol surpreendente logo no começo do jogo, mas demonstrou poder de reação para obter os três pontos que o deixam colado no [&#8230;]</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/marcelo-oliveira-destaca-superacao-do-galo-em-virada-no-morumbi/">Marcelo Oliveira destaca superação do Galo em virada no Morumbi</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<img width="1000" height="666" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Foto: Sergio Barzaghi/Gazeta Press" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza.jpg 1000w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza-360x240.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza-768x511.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><div id="attachment_2346440" style="width: 1010px" class="wp-caption alignnone"><img class="size-full wp-image-2346440" src="https://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza.jpg" alt="Foto: Sergio Barzaghi/Gazeta Press" width="1000" height="666" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza.jpg 1000w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza-360x240.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/marcelo-oliveira_barza-768x511.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px" /><p class="wp-caption-text">Foto: Sergio Barzaghi/Gazeta Press</p></div>
-<p>O Atlético-MG manteve a sua fase ascendente no Campeonato Brasileiro com a vitória sobre o São Paulo. O resultado desta quinta-feira no Morumbi, aliás, foi marcado por um susto: o Galo sofreu um gol surpreendente logo no começo do jogo, mas demonstrou poder de reação para obter os três pontos que o deixam colado no G4 do torneio nacional.</p>
-<p>&#8220;O gol com dois minutos poderia abalar o time, mas a reação e a tranquilidade são fatores que ficam, além da sustentação do resultado até o final. Esperamos que isso fortaleça nossa equipe&#8221;, disse o técnico Marcelo Oliveira.</p>
-<p>Na visão do comandante, o Atlético-MG poderia até ter ampliado o placar na capital paulista. Porém, Marcelo Oliveira lamentou os erros ofensivos do time na etapa complementar, principalmente na questão do passe.  Por outro lado, o treinador também viu a evolução do time com o trabalho das últimas semanas.</p>
-<p>“Tivemos duas semanas de trabalho, e isso ajuda muito. Foi muito bom, o grupo marcou muito, se doou muito. Tivemos dificuldades, mas acho que a equipe que pretende ser campeã precisa passar por isso&#8221;, emendou Marcelo Oliveira.</p>
-<p>Agora, o Atlético-MG se concentra na próxima rodada do Campeonato Brasileiro. Na segunda-feira à noite, o Galo enfrenta a Chapecoense, no estádio Independência.</p>
-<p>&nbsp;</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/marcelo-oliveira-destaca-superacao-do-galo-em-virada-no-morumbi/">Marcelo Oliveira destaca superação do Galo em virada no Morumbi</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/campeonato-brasileiro-serie-a/marcelo-oliveira-destaca-superacao-do-galo-em-virada-no-morumbi/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Bagagem de natação britânica some em chegada da delegação ao Rio</title>
-		<link>http://www.gazetaesportiva.com/olimpiadas-destaque/bagagem-de-natacao-britanica-some-em-chegada-da-delegacao-ao-rio/</link>
-		<comments>http://www.gazetaesportiva.com/olimpiadas-destaque/bagagem-de-natacao-britanica-some-em-chegada-da-delegacao-ao-rio/#respond</comments>
-		<pubDate>Fri, 05 Aug 2016 13:44:56 +0000</pubDate>
-		<dc:creator><![CDATA[Marcelo Baseggio Moschini Teixeira]]></dc:creator>
-				<category><![CDATA[Bastidores]]></category>
-		<category><![CDATA[Mais Esportes]]></category>
-		<category><![CDATA[Olimpíadas 2016]]></category>
-		<category><![CDATA[Olimpíadas Destaque]]></category>
-		<category><![CDATA[grã-bretanha]]></category>
-		<category><![CDATA[natacao]]></category>
-
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346434</guid>
-		<description><![CDATA[<p><img width="1038" height="640" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Apesar do imprevisto, natação britânica conta com equipamentos extra (Foto: BOA/Divulgação)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin.jpg 1038w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin-360x222.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin-768x474.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin-1024x631.jpg 1024w" sizes="(max-width: 1038px) 100vw, 1038px" />Nove malas contendo equipamentos de natação da Grã-Bretanha sumiram na chegada da delegação ao Rio de Janeiro. Ainda não se sabe se elas foram roubadas ou se perderam em um erro de logística dos aeroportos brasileiros, já que antes de chegarem à capital fluminense os atletas passaram por período de aclimatação em Belo Horizonte. As [&#8230;]</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/olimpiadas-destaque/bagagem-de-natacao-britanica-some-em-chegada-da-delegacao-ao-rio/">Bagagem de natação britânica some em chegada da delegação ao Rio</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<img width="1038" height="640" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Apesar do imprevisto, natação britânica conta com equipamentos extra (Foto: BOA/Divulgação)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin.jpg 1038w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin-360x222.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin-768x474.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin-1024x631.jpg 1024w" sizes="(max-width: 1038px) 100vw, 1038px" /><div id="attachment_2346439" style="width: 1048px" class="wp-caption aligncenter"><img class="size-full wp-image-2346439" src="https://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin.jpg" alt="Apesar do imprevisto, natação britânica conta com equipamentos extra (Foto: BOA/Divulgação)" width="1038" height="640" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin.jpg 1038w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin-360x222.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin-768x474.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/jazz-carlin-1024x631.jpg 1024w" sizes="(max-width: 1038px) 100vw, 1038px" /><p class="wp-caption-text">Apesar do imprevisto, natação britânica conta com equipamentos extra (Foto: BOA/Divulgação)</p></div>
-<p>Nove malas contendo equipamentos de natação da Grã-Bretanha sumiram na chegada da delegação ao Rio de Janeiro. Ainda não se sabe se elas foram roubadas ou se perderam em um erro de logística dos aeroportos brasileiros, já que antes de chegarem à capital fluminense os atletas passaram por período de aclimatação em Belo Horizonte.</p>
-<p>As provas de natação começam já neste sábado, mas a delegação britânica não deve ter problemas mesmo com a perda de seus equipamentos. O comitê do país já havia trazido anteriormente malas extras contendo todos os artefatos que os atletas irão necessitar para competirem.</p>
-<p>“Um pequeno número de malas – nove em um total de 3 mil bagagens – não foi encontrado após sairmos de Belo Horizonte e chegarmos à Vila Olímpica no Rio de Janeiro. Estamos trabalhando duro para localizar as malas o mais rápido possível. Enquanto isso, todos os atletas continuam treinando normalmente e não foram afetados pela falta de equipamentos. O foco dos atletas envolvidos está concentrado no início dos Jogos e em suas respectivas performances”, comunicou o Comitê Olímpico Britânico.</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/olimpiadas-destaque/bagagem-de-natacao-britanica-some-em-chegada-da-delegacao-ao-rio/">Bagagem de natação britânica some em chegada da delegação ao Rio</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/olimpiadas-destaque/bagagem-de-natacao-britanica-some-em-chegada-da-delegacao-ao-rio/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Felipe Santos com a esposa Iací Santos e o técnico Cuca &#8211; Vila Nova Curuçá &#8211; SP</title>
-		<link>http://www.gazetaesportiva.com/canal-do-torcedor/felipe-santos-com-a-esposa-iaci-santos-e-o-tecnico-cuca-vila-nova-curuca-sp/</link>
-		<comments>http://www.gazetaesportiva.com/canal-do-torcedor/felipe-santos-com-a-esposa-iaci-santos-e-o-tecnico-cuca-vila-nova-curuca-sp/#respond</comments>
-		<pubDate>Fri, 05 Aug 2016 13:32:03 +0000</pubDate>
-		<dc:creator><![CDATA[Willians Oliveira]]></dc:creator>
+		<title>Post sem banner bonito =(</title>
+		<link>https://walterdarcie.github.io/ia-tests/canal-do-torcedor/post-sem-banner-bonito/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/canal-do-torcedor/post-sem-banner-bonito/#respond</comments>
+		<pubDate>Tue, 28 Jun 2016 20:36:49 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
 				<category><![CDATA[Canal do Torcedor]]></category>
+		<category><![CDATA[Sem categoria]]></category>
 
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346435</guid>
-		<description><![CDATA[<p><img width="1281" height="428" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="1" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5.jpg 1281w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5-360x120.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5-768x257.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5-1024x342.jpg 1024w" sizes="(max-width: 1281px) 100vw, 1281px" /></p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/canal-do-torcedor/felipe-santos-com-a-esposa-iaci-santos-e-o-tecnico-cuca-vila-nova-curuca-sp/">Felipe Santos com a esposa Iací Santos e o técnico Cuca &#8211; Vila Nova Curuçá &#8211; SP</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2298894</guid>
+		<description><![CDATA[<p><img width="3000" height="1997" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/06/fd_atletismo_0405-279-de-384.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Montanha, São paulo SP, 04/05/2016, Foto: Fernando Dantas/Gazeta Press" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/06/fd_atletismo_0405-279-de-384.jpg 3000w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/06/fd_atletismo_0405-279-de-384-300x200.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/06/fd_atletismo_0405-279-de-384-1024x682.jpg 1024w" sizes="(max-width: 3000px) 100vw, 3000px" />teosntowih hkhsliffer nkcuaoeuh</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/canal-do-torcedor/post-sem-banner-bonito/">Post sem banner bonito =(</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<img width="1281" height="428" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="1" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5.jpg 1281w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5-360x120.jpg 360w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5-768x257.jpg 768w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/1-5-1024x342.jpg 1024w" sizes="(max-width: 1281px) 100vw, 1281px" /><p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/canal-do-torcedor/felipe-santos-com-a-esposa-iaci-santos-e-o-tecnico-cuca-vila-nova-curuca-sp/">Felipe Santos com a esposa Iací Santos e o técnico Cuca &#8211; Vila Nova Curuçá &#8211; SP</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+				<content:encoded><![CDATA[<img width="3000" height="1997" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/06/fd_atletismo_0405-279-de-384.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Montanha, São paulo SP, 04/05/2016, Foto: Fernando Dantas/Gazeta Press" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/06/fd_atletismo_0405-279-de-384.jpg 3000w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/06/fd_atletismo_0405-279-de-384-300x200.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/06/fd_atletismo_0405-279-de-384-1024x682.jpg 1024w" sizes="(max-width: 3000px) 100vw, 3000px" /><p>teosntowih</p>
+<p>hkhsliffer</p>
+<p>nkcuaoeuh</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/canal-do-torcedor/post-sem-banner-bonito/">Post sem banner bonito =(</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/canal-do-torcedor/felipe-santos-com-a-esposa-iaci-santos-e-o-tecnico-cuca-vila-nova-curuca-sp/feed/</wfw:commentRss>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/canal-do-torcedor/post-sem-banner-bonito/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
-		<title>Boxeador marroquino é detido na vila olímpica por assédio às camareiras</title>
-		<link>http://www.gazetaesportiva.com/olimpiadas-destaque/pugilista-marroquino-e-detido-na-vila-olimpica-por-assedio-as-camareiras/</link>
-		<comments>http://www.gazetaesportiva.com/olimpiadas-destaque/pugilista-marroquino-e-detido-na-vila-olimpica-por-assedio-as-camareiras/#comments</comments>
-		<pubDate>Fri, 05 Aug 2016 12:54:02 +0000</pubDate>
-		<dc:creator><![CDATA[Marcelo Baseggio Moschini Teixeira]]></dc:creator>
-				<category><![CDATA[Bastidores]]></category>
-		<category><![CDATA[Boxe]]></category>
-		<category><![CDATA[Mais Esportes]]></category>
-		<category><![CDATA[Olimpíadas 2016]]></category>
-		<category><![CDATA[Olimpíadas Destaque]]></category>
-		<category><![CDATA[assédio]]></category>
-		<category><![CDATA[marrocos]]></category>
-		<category><![CDATA[rio 2016]]></category>
+		<title>Postagem com um banner lindo</title>
+		<link>https://walterdarcie.github.io/ia-tests/canal-do-torcedor/postagem-com-um-banner-lindo/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/canal-do-torcedor/postagem-com-um-banner-lindo/#respond</comments>
+		<pubDate>Tue, 28 Jun 2016 14:53:25 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Canal do Torcedor]]></category>
+		<category><![CDATA[Sem categoria]]></category>
 
-		<guid isPermaLink="false">http://www.gazetaesportiva.com/?p=2346417</guid>
-		<description><![CDATA[<p><img width="620" height="465" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/hassan-saada.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Hassan Saada foi retirado da vila olímpica após assediar funcionárias do local (Foto: Yuri Cortez/AFP)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/hassan-saada.jpg 620w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/hassan-saada-360x270.jpg 360w" sizes="(max-width: 620px) 100vw, 620px" />O boxeador Hassan Saada foi detido na manhã desta sexta-feira após abusar sexualmente de duas camareiras na Vila Olímpica. Preso provisoriamente por 15 dias, o atleta marroquino corre o risco de ficar de fora das Olimpíadas e agora aguarda uma definição para saber se poderá ir ao ringue representar o seu país. Saada teria convidado uma [&#8230;]</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/olimpiadas-destaque/pugilista-marroquino-e-detido-na-vila-olimpica-por-assedio-as-camareiras/">Boxeador marroquino é detido na vila olímpica por assédio às camareiras</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2298885</guid>
+		<description><![CDATA[<p><img width="1600" height="1105" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="kajsgdkajs" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2.jpg 1600w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2-300x207.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2-768x530.jpg 768w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2-1024x707.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" />Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet imperdiet lectus. Quisque congue lorem vehicula odio bibendum venenatis. Morbi tempus diam vel purus dignissim, ut blandit risus elementum. Praesent luctus, ligula blandit iaculis porta, purus ex blandit sem, a mattis enim lorem eu sem. Pellentesque gravida sapien pharetra ante auctor, et mollis turpis [&#8230;]</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/canal-do-torcedor/postagem-com-um-banner-lindo/">Postagem com um banner lindo</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></description>
-				<content:encoded><![CDATA[<img width="620" height="465" src="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/hassan-saada.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Hassan Saada foi retirado da vila olímpica após assediar funcionárias do local (Foto: Yuri Cortez/AFP)" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/hassan-saada.jpg 620w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/hassan-saada-360x270.jpg 360w" sizes="(max-width: 620px) 100vw, 620px" /><div id="attachment_2346429" style="width: 630px" class="wp-caption alignleft"><img class="size-full wp-image-2346429" src="https://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/hassan-saada.jpg" alt="Hassan Saada foi retirado da vila olímpica após assediar funcionárias do local (Foto: Yuri Cortez/AFP)" width="620" height="465" srcset="http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/hassan-saada.jpg 620w, http://www.gazetaesportiva.com/wp-content/uploads/imagem/2016/08/05/hassan-saada-360x270.jpg 360w" sizes="(max-width: 620px) 100vw, 620px" /><p class="wp-caption-text">Hassan Saada foi retirado da vila olímpica após assediar funcionárias do local (Foto: Yuri Cortez/AFP)</p></div>
-<p>O boxeador Hassan Saada foi detido na manhã desta sexta-feira após abusar sexualmente de duas camareiras na Vila Olímpica. Preso provisoriamente por 15 dias, o atleta marroquino corre o risco de ficar de fora das Olimpíadas e agora aguarda uma definição para saber se poderá ir ao ringue representar o seu país.</p>
-<p>Saada teria convidado uma das camareiras da vila olímpica para tirar uma selfie em seu aposento. Após o retrato, o pugilista tentou beijar a funcionária à força. Mais tarde, outra camareira foi vítima do marroquino, que desta vez chegou a oferecer dinheiro para que a camareira o masturbasse.</p>
-<p>O ocorrido foi denunciado para a polícia e ainda nesta manhã a juíza Larissa Nunes expediu um mandado de prisão ao atleta. Hassan Saada iria competir já neste sábado, às 12h30 (de Brasília), pela categoria meio-pesado (até 81kg), porém, há a possibilidade do Marrocos perder um nome no boxe olímpico por conta do assédio às camareiras.</p>
-<p>O post <a rel="nofollow" href="http://www.gazetaesportiva.com/olimpiadas-destaque/pugilista-marroquino-e-detido-na-vila-olimpica-por-assedio-as-camareiras/">Boxeador marroquino é detido na vila olímpica por assédio às camareiras</a> apareceu primeiro em <a rel="nofollow" href="http://www.gazetaesportiva.com">Gazeta Esportiva</a>.</p>
+				<content:encoded><![CDATA[<img width="1600" height="1105" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="kajsgdkajs" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2.jpg 1600w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2-300x207.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2-768x530.jpg 768w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2-1024x707.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /><div id="attachment_2069266" style="width: 1610px" class="wp-caption aligncenter"><img class="size-full wp-image-2069266" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2.jpg" alt="kajsgdkajs" width="1600" height="1105" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2.jpg 1600w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2-300x207.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2-768x530.jpg 768w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/holt-mccallany-2-1024x707.jpg 1024w" sizes="(max-width: 1600px) 100vw, 1600px" /><p class="wp-caption-text">kajsgdkajs</p></div>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sit amet imperdiet lectus. Quisque congue lorem vehicula odio bibendum venenatis. Morbi tempus diam vel purus dignissim, ut blandit risus elementum. Praesent luctus, ligula blandit iaculis porta, purus ex blandit sem, a mattis enim lorem eu sem. Pellentesque gravida sapien pharetra ante auctor, et mollis turpis ullamcorper. Nulla vitae accumsan lorem, et vestibulum quam. In mattis nibh erat, a dignissim arcu elementum ac. Quisque commodo nisl vel lacus luctus, eu viverra metus imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla eu venenatis enim. Mauris eu iaculis justo, at pretium quai.</p>
+<p>Duis eu nisi a enim sagittis bibendum a ut purus. Donec euismod magna nec purus feugiat, sit amet pellentesque nibh interdum. Phasellus lobortis mollis luctus. Nullam sed facilisis urna. Nulla mollis urna tempor elit facilisis, nec gravida mi lacinia. Suspendisse sed leo quam. Phasellus non venenatis ex. In accumsan ligula eu mi mollis, id tristique metus euismod. Suspendisse potenti. Ut eu orci tincidunt, egestas odio eget, pulvinar velit. Ut eros sem, consequat eu tortor id, posuere fringilla augue. Morbi eget dignissim odio. Pellentesque bibendum erat ante, eget iaculis lectus dictum quis. In molestie elementum metus vitae lacinia.</p>
+<p>Fusce vitae sapien odio. Aliquam erat volutpat. Sed in odio sapien. Vivamus quis arcu nec lorem blandit eleifend at vitae arcu. Suspendisse dapibus, nisl at gravida fringilla, ligula orci ultricies urna, vitae dignissim metus erat vel mi. Nullam vel mollis neque. Donec pharetra ultrices vulputate.</p>
+<p>Vivamus aliquet lectus eu nisl cursus, tempus porttitor elit ullamcorper. Nullam dignissim malesuada orci, a auctor enim commodo sed. Maecenas rutrum orci id diam mattis, vitae fermentum leo gravida. Pellentesque elementum, libero ornare commodo aliquet, diam dolor ultrices odio, sed rutrum odio libero a justo. Suspendisse eu enim nisl. Donec porta, lorem in porttitor placerat, felis nunc vulputate augue, vitae pretium ex lectus nec purus. Vestibulum accumsan, dolor vitae pharetra ornare, massa ante scelerisque magna, ac suscipit purus tortor sed orci. Duis finibus leo congue ante luctus sagittis.count</p>
+<p>Vivamus aliquet lectus eu nisl cursus, tempus porttitor elit ullamcorper. Nullam dignissim malesuada orci, a auctor enim commodo sed. Maecenas rutrum orci id diam mattis, vitae fermentum leo gravida. Pellentesque elementum, libero ornare commodo aliquet, diam dolor ultrices odio, sed rutrum odio libero a justo. Suspendisse eu enim nisl. Donec porta, lorem in porttitor placerat, felis nunc vulputate augue, vitae pretium ex lectus nec purus. Vestibulum accumsan, dolor vitae pharetra ornare, massa ante scelerisque magna, ac suscipit purus tortor sed orci. Duis finibus leo congue ante luctus sagittis.count</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/canal-do-torcedor/postagem-com-um-banner-lindo/">Postagem com um banner lindo</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
 ]]></content:encoded>
-			<wfw:commentRss>http://www.gazetaesportiva.com/olimpiadas-destaque/pugilista-marroquino-e-detido-na-vila-olimpica-por-assedio-as-camareiras/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/canal-do-torcedor/postagem-com-um-banner-lindo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title></title>
+		<link>https://walterdarcie.github.io/ia-tests/sem-categoria/2298875/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/sem-categoria/2298875/#respond</comments>
+		<pubDate>Wed, 22 Jun 2016 19:36:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Sem categoria]]></category>
+
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2298875</guid>
+		<description><![CDATA[<p>Nos últimos dias, um estudo sobre a eficácia da realização de um minuto de intenso exercício físico foi amplamente divulgado pela imprensa nacional e internacional. O novo método, tido como ideal para quem não gosta ou não dispõe de tempo para a prática de atividade, entretanto, chama a atenção para algo muito mais complexo e [&#8230;]</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/sem-categoria/2298875/"></a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Nos últimos dias, um estudo sobre a eficácia da realização de um minuto de intenso exercício físico foi amplamente divulgado pela imprensa nacional e internacional. O novo método, tido como ideal para quem não gosta ou não dispõe de tempo para a prática de atividade, entretanto, chama a atenção para algo muito mais complexo e profundo. Coloca a sociedade para pensar naquilo que deseja para si.</p>
+<p>É cada vez mais comum a divulgação e repercussão desse tipo de informação. Quanto tempo de exercício fazer? Um minuto é válido? Três vezes por semana, talvez? Sempre se discutiu a real necessidade que temos de exercício: duração, frequência, intensidade, formato, etc. A grande verdade é que a busca por minutos preciosos no dia a dia tão acelerado, somados à falta de capacidade de se pensar modelos de atividades físicas que não fossem tão chatos tornaram essa necessidade de encurtar ou diminuir o tempo quase numa obsessão.</p>
+<p>Se pararmos para uma reflexão, observaremos que estamos tentando empurrar o exercício goela abaixo da sociedade, num formato chato e nada agradável, que dói, faz as pessoas suarem e que, somado à falta de entendimento, se transforma em desmotivação. Isso faz com que muitos desistam sem ter permanecido tempo suficiente para obter resultado. E nessa toada, pesquisadores buscam soluções para que a atividade física não dure muito, para que as pessoas possam se livrar dela rapidamente.</p>
+<p>A resposta ideal para a pergunta sobre quanto tempo de exercício cada um precisa fazer é mais ou menos o tempo de sua vida. Sim. Temos que fazer exercício durante a vida toda. Como exercício, entenda-se a realização de movimentos, que não necessariamente precisam ser dentro da academia ou com roupa de ginástica.</p>
+<p>O movimento pode ser realizado no trabalho, quando existe alguma demanda física acima da sua média normal de vida. Também pode ser durante seus deslocamentos, seja para o trabalho, seja para a escola, ou ainda em clubes, parques ou outros ambientes que vão além da academia.</p>
+<p>É preciso mudar a forma como se pensa e, principalmente, como se transmite a atividade física. Pense: quando faz algo que lhe agrada, diverte e que te gera boas sensações, se preocupa em realizar tal ação no menor espaço possível de tempo ou gostaria de fazê-las por mais tempo, mais vezes e com mais calma? Para os exercícios, porém, o que acontece é justamente o oposto.</p>
+<p>O problema está no modo como as atividades são empurradas para as pessoas. Sem a exata compreensão sobre a importância, os benefícios e a dinâmica envolvida na realização de cada movimento, a atividade fica chata, cansativa, repetitiva, além de dolorida, um verdadeiro convite ao sedentarismo.</p>
+<p>A prática de atividade física pode representar a diferença entre uma vida mais saudável e divertida e uma vida com mais doenças e menos qualidade. Pode, inclusive, representar a diferença de, lá na frente, viver alguns anos mais.</p>
+<p>A atividade física tem imensurável valor vital. Mas, para que possa gerar todo esse valor, ela precisa ser regular, ser realizada ao longo de toda uma vida. E o grande segredo para fazer algo de maneira regular ao longo de tanto tempo é torna-lo agradável, e não menos pior. É pensar em transformar a experiência do exercício em compreensível e prazerosa.</p>
+<p>Os profissionais de ponta da área de educação física estão realizando essa transformação de maneira muito inteligente, tornado o exercício amigável para o usuário, com conteúdo, psicologia, comunicação, marketing, gestão inteligente e, principalmente, pensando em pessoas antes de técnicas.</p>
+<p>É possível fazer com que todos sintam vontade de praticar exercício. Basta adaptar a atividade para as pessoas e não as pessoas para a atividade. O que não é possível é querer que façam algo que não gostem de maneira obrigada e que está provado cientificamente que não gera resultado consistente.</p>
+<p>Quando os profissionais se especializam em pessoas e não primordialmente em técnicas, principalmente com aquelas que têm dificuldade de começar e dar sequência no exercício – e que representam mais de 90% da população mundial -, os resultados conseguidos em termos de conversão em definitivamente ativas são absolutamente incríveis.</p>
+<p>Essa transformação é fundamental. Enquanto apenas as técnicas de treinamento forem estudadas se pensando em efetividade numérica pura e simplesmente pela fisiologia que seria a ideal do corpo, como se as pessoas fossem máquinas, nada se conseguirá.</p>
+<p>*Cristiano Parente é professor e coach de educação física, eleito em 2014 o melhor personal trainer do mundo em concurso internacional promovido pela Life Fitness.</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/sem-categoria/2298875/"></a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/sem-categoria/2298875/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title></title>
+		<link>https://walterdarcie.github.io/ia-tests/sem-categoria/2298842/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/sem-categoria/2298842/#respond</comments>
+		<pubDate>Mon, 23 May 2016 20:26:57 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Sem categoria]]></category>
+
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2298842</guid>
+		<description><![CDATA[<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/sem-categoria/2298842/"></a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/sem-categoria/2298842/"></a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/sem-categoria/2298842/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Destaques do trajeto da 9 de Julho</title>
+		<link>https://walterdarcie.github.io/ia-tests/olimpiadas-2016/destaques-do-trajeto-da-9-de-julho/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/olimpiadas-2016/destaques-do-trajeto-da-9-de-julho/#respond</comments>
+		<pubDate>Mon, 23 May 2016 20:23:10 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Olimpíadas 2016]]></category>
+
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2298837</guid>
+		<description><![CDATA[<p><img width="4000" height="2148" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Os ciclistas da categoria elite durante a 69ª Prova Ciclística Internacional 9 de Julho 2015, em São Paulo." srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758.jpg 4000w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758-300x161.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758-768x412.jpg 768w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758-1024x550.jpg 1024w" sizes="(max-width: 4000px) 100vw, 4000px" /></p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/olimpiadas-2016/destaques-do-trajeto-da-9-de-julho/">Destaques do trajeto da 9 de Julho</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<img width="4000" height="2148" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Os ciclistas da categoria elite durante a 69ª Prova Ciclística Internacional 9 de Julho 2015, em São Paulo." srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758.jpg 4000w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758-300x161.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758-768x412.jpg 768w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/05/00785758-1024x550.jpg 1024w" sizes="(max-width: 4000px) 100vw, 4000px" /><p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/olimpiadas-2016/destaques-do-trajeto-da-9-de-julho/">Destaques do trajeto da 9 de Julho</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/olimpiadas-2016/destaques-do-trajeto-da-9-de-julho/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Postagem atletica</title>
+		<link>https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-atletica/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-atletica/#respond</comments>
+		<pubDate>Wed, 27 Apr 2016 21:38:28 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Atletismo]]></category>
+		<category><![CDATA[Canal do Torcedor]]></category>
+		<category><![CDATA[Olimpíadas 2016]]></category>
+
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2069470</guid>
+		<description><![CDATA[<p><img width="1500" height="1000" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/000_TS-DV2110985.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Quisque in velit purus. Donec facilisis blandit elementum. Duis varius sollicitudin elit in euismod. Vivamus dictum pretium tellu" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/000_TS-DV2110985.jpg 1500w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/000_TS-DV2110985-300x200.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/000_TS-DV2110985-1024x683.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px" />dgfsfgasdfacdargdfxhwretcasdsdxvcdfddrdxrdxfxdfzsaWsexdfcgvgh</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-atletica/">Postagem atletica</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<img width="1500" height="1000" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/000_TS-DV2110985.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Quisque in velit purus. Donec facilisis blandit elementum. Duis varius sollicitudin elit in euismod. Vivamus dictum pretium tellu" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/000_TS-DV2110985.jpg 1500w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/000_TS-DV2110985-300x200.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/000_TS-DV2110985-1024x683.jpg 1024w" sizes="(max-width: 1500px) 100vw, 1500px" /><p>dgfsfgasdfacdargdfxhwretcasdsdxvcdfddrdxrdxfxdfzsaWsexdfcgvgh</p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-atletica/">Postagem atletica</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-atletica/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Postagem Olímpica &#8211; 2</title>
+		<link>https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-olimpica-2/</link>
+		<comments>https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-olimpica-2/#respond</comments>
+		<pubDate>Wed, 27 Apr 2016 20:37:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Atletismo]]></category>
+		<category><![CDATA[Olimpíadas 2016]]></category>
+
+		<guid isPermaLink="false">https://walterdarcie.github.io/ia-tests/?p=2069468</guid>
+		<description><![CDATA[<p><img width="1440" height="947" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="esgrima" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima.jpg 1440w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima-300x197.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima-768x505.jpg 768w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima-1024x673.jpg 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /></p>
+<p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-olimpica-2/">Postagem Olímpica &#8211; 2</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<img width="1440" height="947" src="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="esgrima" srcset="https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima.jpg 1440w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima-300x197.jpg 300w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima-768x505.jpg 768w, https://walterdarcie.github.io/ia-tests/wp-content/uploads/2016/03/esgrima-1024x673.jpg 1024w" sizes="(max-width: 1440px) 100vw, 1440px" /><p>O post <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-olimpica-2/">Postagem Olímpica &#8211; 2</a> apareceu primeiro em <a rel="nofollow" href="https://walterdarcie.github.io/ia-tests">Gazeta Esportiva</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://walterdarcie.github.io/ia-tests/olimpiadas-2016/postagem-olimpica-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
 </rss>
